@@ -2,7 +2,7 @@
 Feedback App to Ala-Too university
 
 # Team members:
-Paishan kyzy Nuriza
+Paishan kyzy Nuriza,
 Azimov Talantbek
 
 # General Info:
